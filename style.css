@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: orange;
+}
+
+p {
+    color: green;
+    user-select: none;
+    width: fit-content;
+}
+
+li {
+    color: darkred;
+}
+
+button {
+    border: none;
+    background-color: orange;
+    color: black;
+}
+
+.default {
+    background: red;
+    width: 150px;
+    height: 150px;
+}
+
+.hover {
+    background: green;
+    width: 150px;
+    height: 150px;
+}
